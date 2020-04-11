@@ -16,4 +16,4 @@ The Deciding Factor for the optimal C is the RMSE from the fit when comparing it
 
 Make sure that the excel sheet has the FIRST COLUMN as PRESSURE and the SECOND as VOLUME with no additional things anywhere in the first two columns.
 
-![Example on how to run it and what kind of output you should expect](https://raw.githubusercontent.com/Hussain1/Empirical-Tait-Equation-Fitting/New-Version/Usage-and-Output-Example.png)
+![Example on how to run it and what kind of output you should expect](https://raw.githubusercontent.com/Hussain1/Empirical-Tait-Equation-Fitting/master/Usage-and-Output-Example.png)
