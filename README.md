@@ -14,6 +14,6 @@ Input for the function is a path like TaitEq2('C:\blah\blah\points.xlsx', L, H).
 
 The Deciding Factor for the optimal C is the RMSE from the fit when comparing it to the known points
 
-Make sure that the excel sheet has the FIRST COLUMN as PRESSURE and the SECOND as VOLUME with no additional things anywhere in the first two columns. The L you will
+Make sure that the excel sheet has the FIRST COLUMN as PRESSURE and the SECOND as VOLUME with no additional things anywhere in the first two columns.
 
 ![Example on how to run it and what kind of output you should expect](https://raw.githubusercontent.com/Hussain1/Empirical-Tait-Equation-Fitting/New-Version/Usage-and-Output-Example.png)
